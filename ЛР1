@@ -14,19 +14,28 @@ Operating system (OS) - це базовий комплекс програм, щ�
 Hypervisor is a software for creating virtual machines (VMs), which makes it possible to run several operating systems (OS) on one physical server.
 It helps in optimizing resources, data safety, seamless work of IT infrastructure and its scalability.
 2.1).
+The basic components of a Xen-based virtualization environment are the Xen hypervisor, the Dom0, any number of other VM Guests, and the tools, commands, and configuration files that let you manage virtualization.
 The Xen Project hypervisor is an open-source type-1 or baremetal hypervisor, which makes it possible to run many instances of an operating system or indeed different operating systems in parallel on a single machine (or host).
 Features:
 Xen hypervisor is the only type-1 hypervisor that is available as open source.
 It is used as the basis for a commercial and open source applications, such as: server virtualization, Infrastructure as a Service (IaaS), desktop virtualization, security applications, embedded and hardware appliances.
 The Xen hypervisor is powering the largest clouds in production today.
-Main capability:
+
 1.Small footprint and interface
+
 Because it uses a microkernel design, with a small memory footprint and a restricted interface to guests, it is more robust and secure than other hypervisors.
+
 2.Operating system agnostic
+
 Most installations run with Linux as the main control stack (aka “domain 0”). But a number of other operating systems can be used instead, including NetBSD and FreeBSD.
+
 3. Driver Isolation
+
 The Xen Project hypervisor has the capability to allow the main device driver for a system to run inside of a virtual machine.
 If the driver crashes, or is compromised, the VM containing the driver can be rebooted and the driver restarted without affecting the rest of the system.
+
 4. Paravirtualization
+
 Allows guests to avoid extra overhead, by making use of devices and interfaces that have been designed for a virtualized environment.
 Additionally Xen on x86 also supports fully paravirtualized guests, which can run on hardware that doesn’t support virtualization extensions.
+
