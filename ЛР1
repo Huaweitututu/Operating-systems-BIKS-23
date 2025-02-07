@@ -39,3 +39,4 @@ If the driver crashes, or is compromised, the VM containing the driver can be re
 Allows guests to avoid extra overhead, by making use of devices and interfaces that have been designed for a virtualized environment.
 Additionally Xen on x86 also supports fully paravirtualized guests, which can run on hardware that doesn’t support virtualization extensions.
 
+1. 1.
