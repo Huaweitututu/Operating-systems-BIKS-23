@@ -46,20 +46,27 @@ Cloud computing environments run bare metal hypervisors to offer the most perfor
 Cloud providers also abstract away type 1 hypervisor management and offer VMs as cloud instances you can access through APIs.
 Type 2 hypervisors are most often used in desktop and development environments, where workloads are not as resource-intensive or critical to operations. 
 They’re also preferred in cases where users want to simultaneously use two or more operating systems but only have access to one machine.
+
 2.The GNU General Public Licenses (GNU GPL, or simply GPL) are a series of widely used free software licenses, or copyleft licenses, 
 that guarantee end users the freedoms to run, study, share, or modify the software. The GPL was the first copyleft license available for general use.
 The GNU GPL (General Public License) ensures software freedom: users can use, study, modify, and share the software. It requires that any distributed versions, including modifications, 
 must also be open-source and licensed under the GPL. This "copyleft" approach prevents the software from becoming proprietary, preserving user freedoms.
+
 3.Open source software is software with source code that anyone can view, modify, and distribute. It promotes collaboration, 
 transparency, and community-driven development, allowing users to freely use, improve, and share the software. Examples include Linux and Firefox.
+
 4.A distribution (or "distro") is a bundled collection of software, like an operating system and tools, packaged for easy use. 
 Examples include Linux distros (e.g., Ubuntu) that combine the Linux kernel with apps for a complete system.
+
 5. Linux system administration tasks include user management, file system and storage control, network setup, software installation, security configuration, process monitoring, backups, and server management.
 It offers powerful tools for these tasks.
+
 6. Android is based on the Linux kernel but replaces traditional Linux components with custom frameworks for mobile devices. 
 While Linux is a general-purpose OS, Android is tailored for smartphones and tablets, focusing on touch interfaces and apps. Both are open source.
+
 7. Embedded Linux is a lightweight, customizable OS for specialized devices. Key features: Runs on diverse hardware (ARM, x86). Supports real-time performance, networking, and low resource usage. Open source and modular.
 Used in: IoT, consumer electronics, industrial systems, automotive, medical devices, and networking gear.
+
 8.Text mode (level 3): sudo systemctl set-default multi-user.target
 Graphical mode (level 5): sudo systemctl set-default graphical.target
 The text interface has less resource consumption, precise control, and ease of automation. 
