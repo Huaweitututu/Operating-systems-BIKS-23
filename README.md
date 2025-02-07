@@ -1,8 +1,10 @@
 <h1 align="center"> 🛸Operating-systems-BIKS-23🛸</h1>
 
-AUTHORS OF THE REPOSITORY
+<h2 align="center"> AUTHORS OF THE REPOSITORY</h2>
 
-[Students](https://github.com/Huaweitututu/Operating-systems-BIKS-23/blob/main/Students)
+[![Stanislav Rubel](https://img.shields.io/badge/-Stanislav_Rubel-blue?style=for-the-badge&logo=person&logoColor=white)](https://)
+[![Nazar Vydyborets](https://img.shields.io/badge/-Nazar_Vydyborets-blue?style=for-the-badge&logo=person&logoColor=white)](https://)
+[![Svyatoslav Chernutskyi](https://img.shields.io/badge/-Svyatoslav_Chernutskyi-blue?style=for-the-badge&logo=person&logoColor=white)](https://)
 
 ![Animated Space Palm Tree](https://github.com/Huaweitututu/Operating-systems-BIKS-23/blob/main/giphy.gif)
 
