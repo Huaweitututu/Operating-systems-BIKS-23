@@ -71,5 +71,9 @@ Used in: IoT, consumer electronics, industrial systems, automotive, medical devi
 Graphical mode (level 5): sudo systemctl set-default graphical.target
 The text interface has less resource consumption, precise control, and ease of automation. 
 The graphical interface, in turn, is more intuitive, but consumes more resources and is more difficult to automate.
+ВИСНОВОК 
+Hypervisors play a crucial role in virtualization by enabling multiple operating systems to run on a single physical machine.
+The Xen Project Hypervisor, an open-source Type 1 hypervisor, stands out due to its microkernel design, small footprint, and strong security features. It supports multiple operating systems, driver isolation, and paravirtualization, making it a robust choice for cloud computing, embedded systems, and virtualization applications.
 
+Overall, hypervisors optimize resource utilization, improve system scalability, and enhance IT infrastructure reliability, making them essential for modern computing environments.
 
