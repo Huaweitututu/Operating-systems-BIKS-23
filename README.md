@@ -4,4 +4,4 @@ AUTHORS OF THE REPOSITORY
 
 ![Animated Space Palm Tree](https://github.com/Huaweitututu/Operating-systems-BIKS-23/blob/main/giphy.gif)
 
-[Students.txt](https://github.com/Huaweitututu/Operating-systems-BIKS-23/blob/main/Students.txt)
+[Students](https://github.com/Huaweitututu/Operating-systems-BIKS-23/blob/main/Students)
