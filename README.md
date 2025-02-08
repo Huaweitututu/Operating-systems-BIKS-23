@@ -10,5 +10,4 @@
 
 [![NetAcad](https://img.shields.io/badge/NetAcad-black?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com) [![NetDevGroup Portal](https://img.shields.io/badge/NetDevGroup_Portal-black?style=for-the-badge&logo=data:image/png;base64,YOUR_BASE64_CODE_HERE&logoColor=white)](https://portal.netdevgroup.com)
 
-
-
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://www.buymeacoffee.com/BIKS_OS_Wizard)
