@@ -88,7 +88,6 @@ Benefits of open source:
 
 8. On Linux most of the time the default console is the one you can switch by pressing "ALT+F1", and you can use up to six local Virtual Console.
 
-
 9. In many Unix-like operating systems, including Linux, the system initializes multiple virtual consoles during boot. 
 Typically, the first six virtual consoles (accessible via Ctrl + Alt + F1 through Ctrl + Alt + F6) provide text-based terminals for command-line interactions. 
 The seventh virtual console (Ctrl + Alt + F7) is commonly designated for the graphical user interface (GUI), such as the X Window System or Wayland compositor. 
