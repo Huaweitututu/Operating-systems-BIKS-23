@@ -21,3 +21,40 @@ Users can still interact with CLI shells (e.g., Bash, PowerShell) through such t
 Віртуальний термінал - A software-emulated terminal that provides multiple independent text-based sessions on a single physical machine. 
 Virtual terminals (e.g., tty1-tty6 in Linux) allow users to switch between different console sessions (e.g., via Ctrl+Alt+F1–F6 in Linux). 
 They operate at the operating system level, enabling multitasking and multi-user access without requiring a GUI. Also called "virtual consoles" in some contexts.
+
+Контрольні запитання
+
+
+3.Package manager is a software that simplifies the installation, upgrade, configuration, and removal of software packages.
+Package managers take care of dependencies, versioning, and other difficult chores to make managing programs easier.
+Package managers examples:
+dpkg: Originally used by Debian and now by Ubuntu. Uses the .deb format and was the first to have a widely known dependency resolution tool, APT. The ncurses-based front-end for APT, aptitude, is also a popular package manager for Debian-based systems.
+Entropy: Used by and created for Sabayon Linux. It works with binary packages that are bzip2-compressed tar archives (file extension: .tbz2).
+Flatpak: A containerized/sandboxed packaging format previously known as xdg-app.
+GNU Guix: Used by the GNU System. It is based on the Nix package manager with Guile Scheme APIs and specializes in providing exclusively free software.
+
+4.Linux tools like iptables and firewalld can be utilized to configure and manage firewall rules on Linux systems.
+Prioritize Secure Shell (SSH) security: SSH service is used for securing remote access, and there are several measures you can take to strengthen the security of SSH.
+
+5.Virtualization improves hardware resources used in your data center.
+For example, instead of running one server on one computer system, you can create a virtual server pool on the same computer system by using and returning servers to the pool as required.
+Virtualization is a powerful tool that helps relieve administrative overhead while increasing cost savings, scalability and efficiency.
+Despite being created decades ago, virtualization continues to be a catalyst for companies’ IT strategies. 
+
+6.Containerization is a similar but improved concept of a VM. Instead of copying the hardware layer, containerization removes the operating system layer from the self-contained environment.
+This allows the application to run independently from the host operating system.
+
+7.Advantages and disadvantages of open source software.
+Potential open source issues:
+1)The difficulty of use, some open source applications may be tricky to set up and use.
+2)Compatibility issues. 
+3)Liabilities and warranties. 
+4)Hidden costs.
+Benefits of open source:
+1)Open source enables technology agility, typically offering multiple ways to solve problems.
+2)Open source helps keep your IT organization from getting blocked because a particular capability isn't available from a vendor.
+3)Instead of waiting for the vendor to deliver that capability, you can create it yourself.
+
+8.
+
+
