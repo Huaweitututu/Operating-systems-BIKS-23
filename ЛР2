@@ -62,8 +62,4 @@ Isolate environments (separate shell histories, variables, processes).
 Recover frozen sessions by switching terminals.
 Collaborate or multitask efficiently (SSH, GUI terminals, virtual consoles).
 Low resource overhead compared to GUI apps.
-Caveats: Resource contention (CPU/RAM) if tasks are heavy.
-File conflicts if editing the same file in multiple sessions.
-Reduced accountability (auditing issues).
-Tools: tmux, screen, w (to view active sessions).
 
