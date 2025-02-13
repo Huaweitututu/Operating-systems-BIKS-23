@@ -56,5 +56,14 @@ Benefits of open source:
 3)Instead of waiting for the vendor to deliver that capability, you can create it yourself.
 
 8.
-
+10. You can log into a Linux system multiple times under the same username.
+Benefits: Run parallel tasks (e.g., coding, compiling, monitoring) without interference.
+Isolate environments (separate shell histories, variables, processes).
+Recover frozen sessions by switching terminals.
+Collaborate or multitask efficiently (SSH, GUI terminals, virtual consoles).
+Low resource overhead compared to GUI apps.
+Caveats: Resource contention (CPU/RAM) if tasks are heavy.
+File conflicts if editing the same file in multiple sessions.
+Reduced accountability (auditing issues).
+Tools: tmux, screen, w (to view active sessions).
 
