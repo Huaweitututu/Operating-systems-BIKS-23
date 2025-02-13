@@ -9,3 +9,15 @@ CLI - The command line interface
 GUI - Graphical user interface
 CPU - Central processing unit
 
+3. 
+CLI-режим - A mode of interaction with a computer operating system or software where the user issues text-based commands to perform tasks. 
+The CLI requires precise command syntax and is often favored for its efficiency, scriptability, and low resource usage. 
+It contrasts with graphical user interfaces (GUIs) and is commonly accessed via terminals, consoles, or terminal emulators.
+
+Термінал на основі графічного інтерфейсу користувача - A terminal application that runs within a graphical desktop environment (e.g., GNOME Terminal, macOS Terminal, or Windows Terminal). 
+It emulates the functionality of a traditional text-based terminal but operates within a GUI framework, offering features like tabs, customizable fonts, color schemes, and integration with graphical tools. 
+Users can still interact with CLI shells (e.g., Bash, PowerShell) through such terminals.
+
+Віртуальний термінал - A software-emulated terminal that provides multiple independent text-based sessions on a single physical machine. 
+Virtual terminals (e.g., tty1-tty6 in Linux) allow users to switch between different console sessions (e.g., via Ctrl+Alt+F1–F6 in Linux). 
+They operate at the operating system level, enabling multitasking and multi-user access without requiring a GUI. Also called "virtual consoles" in some contexts.
