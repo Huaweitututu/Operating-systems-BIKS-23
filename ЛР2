@@ -24,7 +24,32 @@ They operate at the operating system level, enabling multitasking and multi-user
 
 Контрольні запитання
 
-1.
+1.Linux Server Applications Examples 
+
+1)Database Servers
+PostgreSQL: Advanced open-source relational database (ACID-compliant, JSON support).  
+MySQL/MariaDB: Popular relational databases for web apps (e.g., WordPress, e-commerce).  
+MongoDB: NoSQL database for unstructured data (scalable, JSON-like documents).  
+Redis: In-memory key-value store for caching, real-time apps, and messaging.  
+
+2)Messaging Servers
+RabbitMQ: Message broker for queuing and routing (supports AMQP, MQTT).  
+Apache Kafka: Distributed streaming platform for real-time data pipelines.  
+Ejabberd: XMPP/Jabber server for instant messaging and chat.  
+Matrix Synapse: Decentralized communication (end-to-end encrypted chat, VoIP).  
+Mosquitto: Lightweight MQTT broker for IoT messaging.  
+
+3)File Sharing Servers
+Samba: Share files with Windows clients (SMB/CIFS protocol).  
+NFS (Network File System): Unix/Linux file sharing (high-speed, low overhead).  
+vsftpd: Secure FTP server for file transfers.  
+Nextcloud: Self-hosted cloud storage (files, calendars, collaboration).  
+OpenSSH/SFTP: Securely transfer files over SSH.  
+
+Use Cases:  
+Database: Web apps, analytics, IoT data storage.  
+Messaging: Microservices, IoT, team collaboration.  
+File Sharing: Cross-platform sync, backups, enterprise data access.
 
 2.Choosing the right shell depends on your specific needs and the environment in which you work. bash and zsh are popular choices for interactive use and scripting due to their extensive features and user-friendly capabilities.
 dash is preferred for performance-sensitive scripts, while ksh and tcsh offer unique features that might be required in specific scenarios.
