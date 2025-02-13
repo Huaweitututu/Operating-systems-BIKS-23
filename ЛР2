@@ -55,7 +55,8 @@ Benefits of open source:
 2)Open source helps keep your IT organization from getting blocked because a particular capability isn't available from a vendor.
 3)Instead of waiting for the vendor to deliver that capability, you can create it yourself.
 
-8.
+8. On Linux most of the time the default console is the one you can switch by pressing "ALT+F1", and you can use up to six local Virtual Console.
+
 10. You can log into a Linux system multiple times under the same username.
 Each connection will have its own shell.
 
